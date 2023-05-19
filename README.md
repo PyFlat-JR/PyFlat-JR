@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently working on :
 - [PyFlat Youtube Downloader](https://github.com/PyFlat-Studios-JR/YT-Downloader)<br>
+- [Plant The Bomb](https://github.com/PyFlat-Studios-JR/Plant-The-Bomb)<br>
 
 
 ## 🌐 Socials:
