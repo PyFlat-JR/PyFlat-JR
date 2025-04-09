@@ -5,7 +5,6 @@ I'm currently working on:
 - [Plant The Bomb](https://github.com/PyFlat/Plant-The-Bomb)
 - [Plant The Bomb - Map Builder](https://github.com/PyFlat/PTB-Map-Builder)
 - [Mastermind](https://github.com/PyFlat/Mastermind)
-- [Fortnite-Ranked-Tracker](https://github.com/PyFlat/Fortnite-Ranked-Tracker)
 
 # 🌐 Socials: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WahFF8jXW5) 
 # 💻 Tech Stack:
